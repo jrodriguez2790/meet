@@ -1,0 +1,17 @@
+{
+  "web": {
+    "CLIENT_ID": "884146706504-r04a3d02887sk6j89dmp4kephdqf9233.apps.googleusercontent.com",
+    "project_id": "meet-app-440016",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "CLIENT_SECRET": "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",
+    "CALENDAR_ID": "fullstackwebdev@careerfoundry.com",
+    "redirect_uris": [
+      "https://jrodriguez2790.github.io/meet/"
+    ],
+    "javascript_origins": [
+      "https://jrodriguez2790.github.io"
+    ]
+  }
+}
